@@ -13,7 +13,6 @@
 #define PAGE_SIZE	(1UL << PAGE_SHIFT)
 
 
-
 #define BEEP_ON 		_IO('B',1) 
 #define BEEP_OFF 		_IO('B',2) 
 
